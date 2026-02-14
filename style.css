@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(14, 21, 57);
+    color: white;
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 50px;
+}
+li{
+    font-size: 30px;
+    display: inline-block;
+    width: 175px;
+}
+.text_years{
+    height: 250px;
+}
+.menu{
+    text-decoration: none;
+    color: white;
+}
